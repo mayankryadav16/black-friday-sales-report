@@ -1,1 +1,1 @@
-# balck-friday-sales-report
+# black-friday-sales-report
